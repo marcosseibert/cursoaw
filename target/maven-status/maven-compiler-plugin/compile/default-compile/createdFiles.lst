@@ -1,0 +1,16 @@
+com\seibert\socialbooks\domain\Autor.class
+com\seibert\socialbooks\repository\ComentariosRepository.class
+com\seibert\socialbooks\resources\AutoresResource.class
+com\seibert\socialbooks\services\LivrosService.class
+com\seibert\socialbooks\domain\Livro.class
+com\seibert\socialbooks\services\AutoresService.class
+com\seibert\socialbooks\resources\LivrosResources.class
+com\seibert\socialbooks\services\exceptions\AutorNaoEncontradoException.class
+com\seibert\socialbooks\services\exceptions\LivroNaoEncontradoException.class
+com\seibert\socialbooks\repository\LivrosRepository.class
+com\seibert\socialbooks\domain\DetalhesErro.class
+com\seibert\socialbooks\SocialbooksApplication.class
+com\seibert\socialbooks\handler\ResourceExceptionHandler.class
+com\seibert\socialbooks\repository\AutoresRepository.class
+com\seibert\socialbooks\domain\Comentario.class
+com\seibert\socialbooks\services\exceptions\AutorExistenteException.class

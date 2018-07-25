@@ -1,0 +1,16 @@
+C:\dev\ws\cursoaw\src\main\java\com\seibert\socialbooks\repository\LivrosRepository.java
+C:\dev\ws\cursoaw\src\main\java\com\seibert\socialbooks\services\AutoresService.java
+C:\dev\ws\cursoaw\src\main\java\com\seibert\socialbooks\services\exceptions\LivroNaoEncontradoException.java
+C:\dev\ws\cursoaw\src\main\java\com\seibert\socialbooks\resources\AutoresResource.java
+C:\dev\ws\cursoaw\src\main\java\com\seibert\socialbooks\domain\DetalhesErro.java
+C:\dev\ws\cursoaw\src\main\java\com\seibert\socialbooks\domain\Autor.java
+C:\dev\ws\cursoaw\src\main\java\com\seibert\socialbooks\SocialbooksApplication.java
+C:\dev\ws\cursoaw\src\main\java\com\seibert\socialbooks\domain\Livro.java
+C:\dev\ws\cursoaw\src\main\java\com\seibert\socialbooks\handler\ResourceExceptionHandler.java
+C:\dev\ws\cursoaw\src\main\java\com\seibert\socialbooks\services\exceptions\AutorNaoEncontradoException.java
+C:\dev\ws\cursoaw\src\main\java\com\seibert\socialbooks\services\LivrosService.java
+C:\dev\ws\cursoaw\src\main\java\com\seibert\socialbooks\repository\ComentariosRepository.java
+C:\dev\ws\cursoaw\src\main\java\com\seibert\socialbooks\domain\Comentario.java
+C:\dev\ws\cursoaw\src\main\java\com\seibert\socialbooks\repository\AutoresRepository.java
+C:\dev\ws\cursoaw\src\main\java\com\seibert\socialbooks\services\exceptions\AutorExistenteException.java
+C:\dev\ws\cursoaw\src\main\java\com\seibert\socialbooks\resources\LivrosResources.java
